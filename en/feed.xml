@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+    <channel>
+        <title>bt-trx</title>
+        <atom:link href="https://bt-trx.com//en/feed.xml" rel="self" type="application/rss+xml"/>
+        <link>https://bt-trx.com//en/</link>
+        <description>Connect your HAM radio or CB radio wirelessly to your car using Bluetooth! Verbinde dein Amateurfunk oder CB Funkgerät über Bluetooth mit dem Auto!</description>
+        <pubDate>Sat, 08 Jun 2019 00:30:52 +0200</pubDate>
+        <webfeeds:icon>https://bt-trx.com//en/assets/img/bt-trx_quadrat.svg</webfeeds:icon>
+        
+        <item>
+            
+            <title>bt-trx at HAM RADIO 2019</title>
+            <link>https://bt-trx.com//en/2019/05/22/hamradio-2019.html</link>
+            <guid isPermaLink="false">//en/2019/05/22/hamradio-2019.html</guid>
+            <description>&lt;h1 id=&quot;presentation-of-bt-trx-at-the-ham-radio-2019-in-friedrichshafen&quot;&gt;Presentation of bt-trx at the HAM RADIO 2019 in Friedrichshafen&lt;/h1&gt;
+
+&lt;p&gt;Motivated by the &lt;a href=&quot;https://darc.de&quot;&gt;DARC e.V.&lt;/a&gt; “Handsfree construction competition” we have developed the bt-trx for all radio amateurs and CB radio operators.&lt;/p&gt;
+
+&lt;p&gt;At the &lt;a href=&quot;https://www.hamradio-friedrichshafen.de&quot;&gt;HAM RADIO 2019&lt;/a&gt; in Friedrichshafen the award ceremony for the competition participants will take place. Besides the event on the DARC stage on Saturday 22.06.2019 at 17:00 we can also be found on the HAM RADIO for the whole weekend. There you can try out the bt-trx and enter into dialogue with the developers.&lt;/p&gt;
+</description>
+            <pubDate>Wed, 22 May 2019 00:00:00 +0200</pubDate>
+        </item>
+        
+    </channel>
+</rss>
