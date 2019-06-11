@@ -7,3 +7,5 @@ feature-img: "assets/img/about.jpg"
 ---
 
 {% translate_file about.md %}
+
+{% include videoplayer_plyr.html %}
