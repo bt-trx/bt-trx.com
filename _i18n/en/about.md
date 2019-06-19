@@ -1,3 +1,7 @@
+{% include videoplayer_plyr.html %}
+
+# Background
+
 With the amendment to the law §23 StVO 2017 ("Handyparagraph"), it will be necessary
 to operate radio equipment (amateur radio, CB radio) without using a handheld microphone
 from July 1st, 2020 in Germany. In other countries, similar laws exist already.
@@ -15,3 +19,9 @@ the hand mike.
 bt-trx is an Open Source project, which means all data for hardware and
 software will be freely available under an open license.
 The project will be opened to the public at HAM RADIO 2019.
+
+# How does it work?
+
+![schema]({{ site.baseurl_root}}assets/img/schema_en.png)
+
+<p style='text-align: center'><img src='{{ site.baseurl_root}}assets/img/bt-trx_v2.jpg'></p>

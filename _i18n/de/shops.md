@@ -1,7 +1,7 @@
-## Kaufen
+# Einen Bausatz kaufen
 
-Ein fertiges bt-trx Modul kann im [thinkstack Shop](https://shop.thinkstack.de) erworben werden.
+Ein Bausatz für ein bt-trx Modul kann bald im [thinkstack Shop](https://shop.thinkstack.de) erworben werden.
 
-## Selbst bauen
+# Selber bauen
 
 Das bt-trx Projekt ist komplett Open Source! Alle nötigen Informationen (Schaltpläne, Platinendesign, Teileliste, Firmware) finden sich auf [Github](https://github.com/bt-trx).

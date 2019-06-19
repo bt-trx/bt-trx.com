@@ -8,6 +8,13 @@
     </div>
     <p class="text">
         {% if site.lang == "de" %}        
+        <a href='./legal.html'>{% t links.imprint %}</a>
+        {% elsif site.lang == "en" %}        
+        <a href='./legal.html'>{% t links.imprint %}</a>
+        {% endif %}
+    </p>
+    <p class="text">
+        {% if site.lang == "de" %}        
         {{ site.theme_settings.footer_text }}
         {% elsif site.lang == "en" %}        
         {{ site.theme_settings.footer_text_en }}

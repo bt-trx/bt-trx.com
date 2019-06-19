@@ -1,3 +1,7 @@
+{% include videoplayer_plyr.html %}
+
+# Hintergrund
+
 Mit der Gesetzesänderung §23 StVO 2017 ("Handyparagraph") wird es ab 1. Juli
 2020 in Deutschland notwendig, Sprechfunkgeräte (Amateurfunk, CB-Funk) ohne
 Aufnehmen des Handmikrofons zu benutzen. In anderen Ländern sind bereits ähnliche
@@ -16,3 +20,9 @@ anstelle des Handmikrofons angeschlossen.
 bt-trx ist ein Open Source Projekt, das heißt alle Daten für Hardware und
 Software werden unter offener Lizenz frei zugänglich sein.
 Das Projekt wird zur HAM RADIO 2019 für die Öffentlichkeit zugänglich gemacht.
+
+# Wie funktioniert bt-trx?
+
+![schema]({{ site.baseurl_root}}assets/img/schema.png)
+
+<p style='text-align: center'><img src='{{ site.baseurl_root}}assets/img/bt-trx_v2.jpg'></p>

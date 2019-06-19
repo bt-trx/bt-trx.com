@@ -1,7 +1,7 @@
 ---
 layout: page
-title: wo bekomme ich bt-trx?
-title_en: where to get bt-trx
+title: Wo bekomme ich bt-trx?
+title_en: Where to get it
 permalink: /shops/
 feature-img: "assets/img/about.jpg"
 ---
