@@ -1,4 +1,5 @@
 
+<p>bt-trx is a project by Andreas Müller, DC1MIL and Christian Obersteiner, DL1COM</p>
 <h1>Legal Disclosure</h1>
 Information in accordance with Section 5 TMG
 <br>Christian Obersteiner, DL1COM<br>Niederdonauweg 4a<br>83024 Rosenheim<br>
