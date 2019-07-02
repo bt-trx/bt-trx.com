@@ -19,8 +19,8 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: "bt-trx - coming June 2019!"
-  header_text_en: "bt-trx - coming June 2019!"
+  header_text: "bt-trx"
+  header_text_en: "bt-trx"
   header_feature_image: assets/img/main.jpg
   footer_text: >
     Erstellt mit <a href="https://jekyllrb.com/">Jekyll</a> und <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
