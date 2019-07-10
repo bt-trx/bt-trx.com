@@ -1,6 +1,16 @@
 [
    
       {
+        "title"    : "Die nächsten Schritte",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "/2019/07/10/next_steps.html",
+        "date"     : "July 10, 2019",
+        "excerpt"  : "Hier ein kleines Update zum Fortschritt des Projekts\n\nFirmware\n\nWir hatten zwischenzeitlich wieder die Möglichkeit, die aktuelle Version der\nbt-trx Firmware (0.1.0) an weiteren Radiomodellen zu testen. Es zeigt sic...",
+        "content"  : "Hier ein kleines Update zum Fortschritt des Projekts\n\nFirmware\n\nWir hatten zwischenzeitlich wieder die Möglichkeit, die aktuelle Version der\nbt-trx Firmware (0.1.0) an weiteren Radiomodellen zu testen. Es zeigt sich, dass\nZubehörradios in der Regel ohne Probleme die Bluetooth Verbindung zu bt-trx\naufbauen. Manche Herstellerradios dahingegen lassen sich aktuell nicht verbinden.\nWir haben bereits ein paar Konfigurationswerte des verwendeten WT32i Bluetooth\nModuls identifiziert, die dieses Problem beheben sollten und werden diese bald\ntesten.\n\nHardware\n\nAktuell sind wir dabei, die vierte Version des bt-trx Development-Boards zu\nentwerfen. Die signifikanteste Änderung ist, dass wir statt des Teensy 3.2\nModuls auf einen ESP32 umsteigen werden. \nDies machen wir vor allem, weil der ESP32 für ca. die Hälfte des Preises des\nTeensy Moduls verfügbar ist. Als weiteren Vorteil bietet der ESP32 integriertes\nWLAN, welches wir in Zukunft eventuell für die Konfiguration und Firmwareupdate\ndes bt-trx nutzen können. Mit dem integrierten Bluetooth LE können wir z.B.\ndrahtlos einen PTT Button anbinden.\n\nSobald wir mit der Entwicklung von v4 fertig sind, werden wir uns daran machen,\nbt-trx als Bausatz verfügbar zu machen.\n"
+      } ,
+   
+      {
         "title"    : "Erfolg auf der HAM RADIO 2019!",
         "category" : "",
         "tags"     : " HAM RADIO 2019",

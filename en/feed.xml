@@ -7,8 +7,42 @@
         <atom:link href="https://bt-trx.com//en/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://bt-trx.com//en/</link>
         <description>Connect your HAM radio or CB radio wirelessly to your car using Bluetooth! Verbinde dein Amateurfunk oder CB Funkgerät über Bluetooth mit dem Auto!</description>
-        <pubDate>Tue, 02 Jul 2019 22:58:32 +0200</pubDate>
+        <pubDate>Wed, 10 Jul 2019 21:49:52 +0200</pubDate>
         <webfeeds:icon>https://bt-trx.com//en/assets/img/bt-trx_quadrat.svg</webfeeds:icon>
+        
+        <item>
+            
+            <title>Next steps</title>
+            <link>https://bt-trx.com//en/2019/07/10/next_steps.html</link>
+            <guid isPermaLink="false">//en/2019/07/10/next_steps.html</guid>
+            <description>&lt;p&gt;Here is a small update on the progress of the project&lt;/p&gt;
+
+&lt;h2 id=&quot;firmware&quot;&gt;Firmware&lt;/h2&gt;
+
+&lt;p&gt;In the meantime, we had the opportunity again to test the current version of the
+bt-trx firmware (0.1.0) with further radio models. It turns out that
+accessory radios usually work without problems. Some manufacturer radios, on
+the other hand, cannot currently be connected.
+We already have a few configuration values of the WT32i Bluetooth module that
+should fix this problem and will do some tests soon.&lt;/p&gt;
+
+&lt;h2 id=&quot;hardware&quot;&gt;Hardware&lt;/h2&gt;
+
+&lt;p&gt;We are currently in the process of developing the fourth version of the bt-trx
+development board.
+The most significant change is that instead of the Teensy 3.2 module, we’ll switch
+to an ESP32.
+This is mainly because the ESP32 will cost about half of the price of the
+Teensy module. As a further advantage, the ESP32 offers integrated
+Wifi, which we may use in the future for configuration and firmware updates
+of the bt-trx. With the integrated Bluetooth LE we can e.g.
+wirelessly connect a PTT button.&lt;/p&gt;
+
+&lt;p&gt;As soon as we are finished with the development of v4, we will get started to 
+make bt-trx kits available.&lt;/p&gt;
+</description>
+            <pubDate>Wed, 10 Jul 2019 00:00:00 +0200</pubDate>
+        </item>
         
         <item>
             

@@ -1,6 +1,16 @@
 [
    
       {
+        "title"    : "Next steps",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "//en/2019/07/10/next_steps.html",
+        "date"     : "July 10, 2019",
+        "excerpt"  : "Here is a small update on the progress of the project\n\nFirmware\n\nIn the meantime, we had the opportunity again to test the current version of the\nbt-trx firmware (0.1.0) with further radio models. It turns out that...",
+        "content"  : "Here is a small update on the progress of the project\n\nFirmware\n\nIn the meantime, we had the opportunity again to test the current version of the\nbt-trx firmware (0.1.0) with further radio models. It turns out that\naccessory radios usually work without problems. Some manufacturer radios, on\nthe other hand, cannot currently be connected.\nWe already have a few configuration values of the WT32i Bluetooth module that\nshould fix this problem and will do some tests soon.\n\nHardware\n\nWe are currently in the process of developing the fourth version of the bt-trx\ndevelopment board.\nThe most significant change is that instead of the Teensy 3.2 module, we’ll switch\nto an ESP32.\nThis is mainly because the ESP32 will cost about half of the price of the\nTeensy module. As a further advantage, the ESP32 offers integrated\nWifi, which we may use in the future for configuration and firmware updates\nof the bt-trx. With the integrated Bluetooth LE we can e.g.\nwirelessly connect a PTT button.\n\nAs soon as we are finished with the development of v4, we will get started to \nmake bt-trx kits available.\n"
+      } ,
+   
+      {
         "title"    : "Success at HAM RADIO 2019!",
         "category" : "",
         "tags"     : " HAM RADIO 2019",
