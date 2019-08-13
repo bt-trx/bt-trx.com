@@ -1,6 +1,16 @@
 [
    
       {
+        "title"    : "Project Update August 2019",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "//en/2019/08/13/update_august_2019.html",
+        "date"     : "August 13, 2019",
+        "excerpt"  : "Project Update August 2019\n\nFirmware\n\nOur latest tests with the new configuration parameters for the WT32i \nBluetooth module were very successful. It is now possible to connect\nals...",
+        "content"  : "Project Update August 2019\n\nFirmware\n\nOur latest tests with the new configuration parameters for the WT32i \nBluetooth module were very successful. It is now possible to connect\nalso with radios of current vehicle models by e.g. VW and Ford without any problems.\n\nThere have also been improvements in the detection of incoming connections.\n\nAll these changes can be found in the firmware version 0.1.2.\n\nHardware\n\nThe fourth version of the bt-trx development board (“dev-board v4”) is now finished \nand prototypes are being produced.\nThe most significant change is the use of ESP32 as the controller, \nbut there were also other changes made to make the board as simple and cheap as possible.\n\nIf everything goes according to plan, this will also be the version that we’ll supply\nas a kit. Currently it is planned to offer the kit from the beginning of October on shop.thinkstack.de. \nProbably we will take preorders starting from September, so its worthwile to have a look from time to time!\n\n\n3D Rendering dev-board v4\n"
+      } ,
+   
+      {
         "title"    : "Next steps",
         "category" : "",
         "tags"     : " ",

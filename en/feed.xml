@@ -7,8 +7,42 @@
         <atom:link href="https://bt-trx.com//en/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://bt-trx.com//en/</link>
         <description>Connect your HAM radio or CB radio wirelessly to your car using Bluetooth! Verbinde dein Amateurfunk oder CB Funkgerät über Bluetooth mit dem Auto!</description>
-        <pubDate>Wed, 10 Jul 2019 21:49:52 +0200</pubDate>
+        <pubDate>Tue, 13 Aug 2019 21:51:40 +0200</pubDate>
         <webfeeds:icon>https://bt-trx.com//en/assets/img/bt-trx_quadrat.svg</webfeeds:icon>
+        
+        <item>
+            
+            <title>Project Update August 2019</title>
+            <link>https://bt-trx.com//en/2019/08/13/update_august_2019.html</link>
+            <guid isPermaLink="false">//en/2019/08/13/update_august_2019.html</guid>
+            <description>&lt;h1 id=&quot;project-update-august-2019&quot;&gt;Project Update August 2019&lt;/h1&gt;
+
+&lt;h2 id=&quot;firmware&quot;&gt;Firmware&lt;/h2&gt;
+
+&lt;p&gt;Our latest tests with the new configuration parameters for the WT32i 
+Bluetooth module were very successful. It is now possible to connect
+also with radios of current vehicle models by e.g. VW and Ford without any problems.&lt;/p&gt;
+
+&lt;p&gt;There have also been improvements in the detection of incoming connections.&lt;/p&gt;
+
+&lt;p&gt;All these changes can be found in the firmware version &lt;a href=&quot;https://github.com/bt-trx/firmware/releases/tag/0.1.2&quot;&gt;0.1.2&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;hardware&quot;&gt;Hardware&lt;/h2&gt;
+
+&lt;p&gt;The fourth version of the bt-trx development board (“dev-board v4”) is now finished 
+and prototypes are being produced.
+The most significant change is the use of ESP32 as the controller, 
+but there were also other changes made to make the board as simple and cheap as possible.&lt;/p&gt;
+
+&lt;p&gt;If everything goes according to plan, this will also be the version that we’ll supply
+as a kit. Currently it is planned to offer the kit from the beginning of October on &lt;a href=&quot;https://shop.thinkstack.de&quot;&gt;shop.thinkstack.de&lt;/a&gt;. &lt;br /&gt;
+Probably we will take preorders starting from September, so its worthwile to have a look from time to time!&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/img/posts/2019-08-13_dev-board-v4-3d.png&quot; /&gt;&lt;br /&gt;
+3D Rendering dev-board v4&lt;/p&gt;
+</description>
+            <pubDate>Tue, 13 Aug 2019 00:00:00 +0200</pubDate>
+        </item>
         
         <item>
             
