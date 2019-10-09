@@ -7,11 +7,16 @@
         <atom:link href="https://bt-trx.com/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://bt-trx.com/</link>
         <description>Connect your HAM radio or CB radio wirelessly to your car using Bluetooth! Verbinde dein Amateurfunk oder CB Funkgerät über Bluetooth mit dem Auto!</description>
+<<<<<<< HEAD
         <pubDate>Wed, 09 Oct 2019 21:44:28 +0200</pubDate>
+=======
+        <pubDate>Tue, 13 Aug 2019 21:51:39 +0200</pubDate>
+>>>>>>> 13575017c83d5dc1ff8d11191db56699fdbcb71a
         <webfeeds:icon>https://bt-trx.com/assets/img/bt-trx_quadrat.svg</webfeeds:icon>
         
         <item>
             
+<<<<<<< HEAD
             <title>Release von dev-board v4.1 - Bausätze bestellbar!</title>
             <link>https://bt-trx.com/2019/10/07/release_dev-board_v4.1.html</link>
             <guid isPermaLink="false">/2019/10/07/release_dev-board_v4.1.html</guid>
@@ -51,6 +56,8 @@ dev-board v4.1&lt;/p&gt;
         
         <item>
             
+=======
+>>>>>>> 13575017c83d5dc1ff8d11191db56699fdbcb71a
             <title>Projektupdate August 2019</title>
             <link>https://bt-trx.com/2019/08/13/update_august_2019.html</link>
             <guid isPermaLink="false">/2019/08/13/update_august_2019.html</guid>
