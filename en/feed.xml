@@ -7,8 +7,79 @@
         <atom:link href="https://bt-trx.com//en/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://bt-trx.com//en/</link>
         <description>Connect your HAM radio or CB radio wirelessly to your car using Bluetooth! Verbinde dein Amateurfunk oder CB Funkgerät über Bluetooth mit dem Auto!</description>
-        <pubDate>Wed, 10 Jul 2019 21:49:52 +0200</pubDate>
+        <pubDate>Wed, 09 Oct 2019 21:44:06 +0200</pubDate>
         <webfeeds:icon>https://bt-trx.com//en/assets/img/bt-trx_quadrat.svg</webfeeds:icon>
+        
+        <item>
+            
+            <title>Release of dev-board v4.1 - Kits available!</title>
+            <link>https://bt-trx.com//en/2019/10/07/release_dev-board_v4.1.html</link>
+            <guid isPermaLink="false">//en/2019/10/07/release_dev-board_v4.1.html</guid>
+            <description>&lt;h1 id=&quot;release-of-dev-board-v41---kits-available&quot;&gt;Release of dev-board v4.1 - Kits available!&lt;/h1&gt;
+
+&lt;h2 id=&quot;dev-board-v41&quot;&gt;dev-board v4.1&lt;/h2&gt;
+
+&lt;p&gt;In the last weeks we have been intensively working on the completion of the
+board versions v4 and v4.1.
+Actually it should be v4 which we also offer as a kit,
+however, there have been short-term problems with the availability of the
+ESP32 module used there. Therefore we had to rework the layout,
+which resulted in v4.1.
+This has the advantage that we have even more improvements in the version.&lt;/p&gt;
+
+&lt;p&gt;The work on the firmware for the ESP32 was also very successful.
+It is now possible to use the PTT button to set up the telephone call.
+and to install firmware updates via the WLAN of ESP32.
+Version v0.1.3 will be shipped with the first kits.&lt;/p&gt;
+
+&lt;h2 id=&quot;kits-available&quot;&gt;Kits available&lt;/h2&gt;
+
+&lt;p&gt;Now we are happy to announce that there is a first, limited edition
+of the bt-trx kits in the &lt;a href=&quot;https://shop.thinkstack.de&quot;&gt;thinkstack Shop&lt;/a&gt;
+available for ordering. The kits will be shipped within the next 3 weeks.
+We want to collect experiences of the first users and improve the
+documentation in order to make it as easy as possible for a wider range
+of users.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/bt-trx/dev-board/raw/master/images/3d_view.png&quot; /&gt;&lt;br /&gt;
+dev-board v4.1&lt;/p&gt;
+</description>
+            <pubDate>Mon, 07 Oct 2019 00:00:00 +0200</pubDate>
+        </item>
+        
+        <item>
+            
+            <title>Project Update August 2019</title>
+            <link>https://bt-trx.com//en/2019/08/13/update_august_2019.html</link>
+            <guid isPermaLink="false">//en/2019/08/13/update_august_2019.html</guid>
+            <description>&lt;h1 id=&quot;project-update-august-2019&quot;&gt;Project Update August 2019&lt;/h1&gt;
+
+&lt;h2 id=&quot;firmware&quot;&gt;Firmware&lt;/h2&gt;
+
+&lt;p&gt;Our latest tests with the new configuration parameters for the WT32i 
+Bluetooth module were very successful. It is now possible to connect
+also with radios of current vehicle models by e.g. VW and Ford without any problems.&lt;/p&gt;
+
+&lt;p&gt;There have also been improvements in the detection of incoming connections.&lt;/p&gt;
+
+&lt;p&gt;All these changes can be found in the firmware version &lt;a href=&quot;https://github.com/bt-trx/firmware/releases/tag/0.1.2&quot;&gt;0.1.2&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;hardware&quot;&gt;Hardware&lt;/h2&gt;
+
+&lt;p&gt;The fourth version of the bt-trx development board (“dev-board v4”) is now finished 
+and prototypes are being produced.
+The most significant change is the use of ESP32 as the controller, 
+but there were also other changes made to make the board as simple and cheap as possible.&lt;/p&gt;
+
+&lt;p&gt;If everything goes according to plan, this will also be the version that we’ll supply
+as a kit. Currently it is planned to offer the kit from the beginning of October on &lt;a href=&quot;https://shop.thinkstack.de&quot;&gt;shop.thinkstack.de&lt;/a&gt;. &lt;br /&gt;
+Probably we will take preorders starting from September, so its worthwile to have a look from time to time!&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/img/posts/2019-08-13_dev-board-v4-3d.png&quot; /&gt;&lt;br /&gt;
+3D Rendering dev-board v4&lt;/p&gt;
+</description>
+            <pubDate>Tue, 13 Aug 2019 00:00:00 +0200</pubDate>
+        </item>
         
         <item>
             
