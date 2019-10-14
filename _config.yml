@@ -22,10 +22,10 @@ theme_settings:
   header_text: "bt-trx"
   header_text_en: "bt-trx"
   header_feature_image: assets/img/main.jpg
-  footer_text: >
-    Erstellt mit <a href="https://jekyllrb.com/">Jekyll</a> und <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  footer_text: 
+    <a href="https://t.me/bttrxcom" target="_blank">bt-trx auf Telegram</a><br>Erstellt mit <a href="https://jekyllrb.com/">Jekyll</a> und <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
   footer_text_en:
-    Made with <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+    <a href="https://t.me/bttrxcom" target="_blank">bt-trx on Telegram</a><br>Made with <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
   
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
