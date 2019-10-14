@@ -8,9 +8,9 @@
     </div>
     <p class="text">
         {% if site.lang == "de" %}        
-        <a href='./legal.html'>{% t links.imprint %}</a>
+        <a href="{{ '/legal.html' | relative_url }}">{% t links.imprint %}</a>
         {% elsif site.lang == "en" %}        
-        <a href='./legal.html'>{% t links.imprint %}</a>
+        <a href="{{ site.baseurl_root}}en/legal.html">{% t links.imprint %}</a>
         {% endif %}
     </p>
     <p class="text">
