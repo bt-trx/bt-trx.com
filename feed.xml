@@ -7,8 +7,21 @@
         <atom:link href="https://bt-trx.com/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://bt-trx.com/</link>
         <description>Connect your HAM radio or CB radio wirelessly to your car using Bluetooth! Verbinde dein Amateurfunk oder CB Funkgerät über Bluetooth mit dem Auto!</description>
-        <pubDate>Wed, 09 Oct 2019 21:48:19 +0200</pubDate>
+        <pubDate>Mon, 14 Oct 2019 21:13:56 +0200</pubDate>
         <webfeeds:icon>https://bt-trx.com/assets/img/bt-trx_quadrat.svg</webfeeds:icon>
+        
+        <item>
+            
+            <title>bt-trx Telegram Gruppe</title>
+            <link>https://bt-trx.com/2019/10/14/telegram-group.html</link>
+            <guid isPermaLink="false">/2019/10/14/telegram-group.html</guid>
+            <description>&lt;h1 id=&quot;bt-trx-telegram-gruppe&quot;&gt;bt-trx Telegram Gruppe&lt;/h1&gt;
+
+&lt;p&gt;Zum Erfahrungsaustausch und Support haben wir die Telegram Gruppe
+&lt;a href=&quot;https://t.me/bttrxcom&quot;&gt;bt-trx&lt;/a&gt; eingerichtet.&lt;/p&gt;
+</description>
+            <pubDate>Mon, 14 Oct 2019 00:00:00 +0200</pubDate>
+        </item>
         
         <item>
             
