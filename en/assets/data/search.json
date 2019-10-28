@@ -1,6 +1,36 @@
 [
    
       {
+        "title"    : "First batch of kits sold out",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "//en/2019/10/28/first_batch_sold_out.html",
+        "date"     : "October 28, 2019",
+        "excerpt"  : "First edition of kits sold out\n\nSince today the first edition of the bt-trx v4.1 kits is sold out. We had limited the quantity of kits on purpose \nto gather experience and feedback in a smaller circl...",
+        "content"  : "First edition of kits sold out\n\nSince today the first edition of the bt-trx v4.1 kits is sold out. We had limited the quantity of kits on purpose \nto gather experience and feedback in a smaller circle of users.\nAfter we have received the first feedback, we will incorporate the suggestions for improvement and then launch\n the next (larger) round.\n\nHence the call to all those who have now received a kit: Please contact us with positive or negative feedback :)\n\nIf someone is interested in a cooperation for the production/distribution of the kits (or maybe someday \nof a complete product), we look forward to hearing from you.\n\nHere again the reference to the Telegram group and the forum:\n\nFor exchange of experiences and support we have the Telegram Group\nbt-trx.\n\nMore in-depth exchange and discussion on further development will take place in the Forum.\n"
+      } ,
+   
+      {
+        "title"    : "bt-trx Telegram Group",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "//en/2019/10/14/telegram-group.html",
+        "date"     : "October 14, 2019",
+        "excerpt"  : "bt-trx Telegram Group\n\nFor discussion and support, we created the Telegram group\nbt-trx.\n",
+        "content"  : "bt-trx Telegram Group\n\nFor discussion and support, we created the Telegram group\nbt-trx.\n"
+      } ,
+   
+      {
+        "title"    : "Release of dev-board v4.1 - Kits available!",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "//en/2019/10/07/release_dev-board_v4.1.html",
+        "date"     : "October 7, 2019",
+        "excerpt"  : "Release of dev-board v4.1 - Kits available!\n\ndev-board v4.1\n\nIn the last weeks we have been intensively working on the completion of the\nboard versions v4 and v...",
+        "content"  : "Release of dev-board v4.1 - Kits available!\n\ndev-board v4.1\n\nIn the last weeks we have been intensively working on the completion of the\nboard versions v4 and v4.1.\nActually it should be v4 which we also offer as a kit,\nhowever, there have been short-term problems with the availability of the\nESP32 module used there. Therefore we had to rework the layout,\nwhich resulted in v4.1.\nThis has the advantage that we have even more improvements in the version.\n\nThe work on the firmware for the ESP32 was also very successful.\nIt is now possible to use the PTT button to set up the telephone call.\nand to install firmware updates via the WLAN of ESP32.\nVersion v0.1.3 will be shipped with the first kits.\n\nKits available\n\nNow we are happy to announce that there is a first, limited edition\nof the bt-trx kits in the thinkstack Shop\navailable for ordering. The kits will be shipped within the next 3 weeks.\nWe want to collect experiences of the first users and improve the\ndocumentation in order to make it as easy as possible for a wider range\nof users.\n\n\ndev-board v4.1\n"
+      } ,
+   
+      {
         "title"    : "Project Update August 2019",
         "category" : "",
         "tags"     : " ",

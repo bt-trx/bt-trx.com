@@ -1,6 +1,36 @@
 [
    
       {
+        "title"    : "Erste Auflage der Bausätze ausverkauft",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "/2019/10/28/first_batch_sold_out.html",
+        "date"     : "October 28, 2019",
+        "excerpt"  : "Erste Auflage der Bausätze ausverkauft\n\nSeit heute ist die erste Auflage der bt-trx v4.1 Bausätze ausverkauft. Wir hatten die Menge der Bausätze mit Absicht \nbegrenzt, um erst einmal in einem...",
+        "content"  : "Erste Auflage der Bausätze ausverkauft\n\nSeit heute ist die erste Auflage der bt-trx v4.1 Bausätze ausverkauft. Wir hatten die Menge der Bausätze mit Absicht \nbegrenzt, um erst einmal in einem kleineren Benutzerkreis Erfahrungen und Feedback zu sammeln.\nNachdem wir die ersten Rückmeldungen erhalten haben, werden wir die Verbesserungvorschläge einarbeiten und dann mit \nder nächsten (größeren) Runde starten.\n\nDaher der Aufruf an alle, die nun ein Exemplar bekommen haben: Bitte meldet euch mit positivem oder negativem Feedback :)\n\nSollte jemand Interesse an einer Kooperation zur Herstellung/Distribution der Bausätze (oder vielleicht irgendwann \neines kompletten Produkts) haben, freuen wir uns über Kontaktaufnahme.\n\nHier nochmal der Hinweis zur Telegram-Gruppe und dem Forum:\n\nZum Erfahrungsaustausch und Support haben wir die Telegram Gruppe\nbt-trx eingerichtet.\n\nTiefergehender Austausch und Diskussion zur weiteren Entwicklung findet im Forum statt.\n"
+      } ,
+   
+      {
+        "title"    : "bt-trx Telegram Gruppe",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "/2019/10/14/telegram-group.html",
+        "date"     : "October 14, 2019",
+        "excerpt"  : "bt-trx Telegram Gruppe\n\nZum Erfahrungsaustausch und Support haben wir die Telegram Gruppe\nbt-trx eingerichtet.\n",
+        "content"  : "bt-trx Telegram Gruppe\n\nZum Erfahrungsaustausch und Support haben wir die Telegram Gruppe\nbt-trx eingerichtet.\n"
+      } ,
+   
+      {
+        "title"    : "Release von dev-board v4.1 - Bausätze bestellbar!",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "/2019/10/07/release_dev-board_v4.1.html",
+        "date"     : "October 7, 2019",
+        "excerpt"  : "Release von dev-board v4.1 - Bausätze bestellbar\n\ndev-board v4.1\n\nIn den letzten Wochen haben wir uns intensiv der Fertigstellung der\nPlatinenversionen v4...",
+        "content"  : "Release von dev-board v4.1 - Bausätze bestellbar\n\ndev-board v4.1\n\nIn den letzten Wochen haben wir uns intensiv der Fertigstellung der\nPlatinenversionen v4 bzw. v4.1 gewidmet.\nEigentlich sollte es v4 die sein, die wir auch als Bausatz anbieten,\nallerdings haben sich kurzfristig Probleme mit der Verfügbarkeit\ndes dort verwendeten ESP32 Moduls ergeben. Daher mussten wir das Layout\nnoch einmal anpassen, wodurch v4.1 entstand.\nDies hat den Vorteil dass wir noch weitere Verbesserungen in diese Version\neinfließen lassen konnten.\n\nAuch die Arbeiten an der Firmware für den ESP32 waren sehr erfolgreich.\nEs gibt nun die Möglichkeit, den PTT Taster zum Aufbau des Telefongesprächs\nzu verwenden und Firmwareupdates über das WLAN des ESP32 zu installieren.\nDie Version v0.1.3 wird mit den ersten Bausätzen ausgeliefert werden.\n\nBausätze bestellbar\n\nNun sind wir froh, mitteilen zu können dass es eine erste, limitierte Auflage\nder bt-trx Bausätze im thinkstack Shop zu\nbestellen gibt.\nDie Bausätze werden innerhalb der nächsten 3 Wochen ausgeliefert.\nWir wollen damit Erfahrungen der ersten Benutzer sammeln und damit die\nDokumentation verbessern um es damit dann möglichst einfach für einen\ngrößeren Benutzerkreis zu machen.\n\n\ndev-board v4.1\n"
+      } ,
+   
+      {
         "title"    : "Projektupdate August 2019",
         "category" : "",
         "tags"     : " ",

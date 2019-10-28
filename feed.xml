@@ -7,8 +7,87 @@
         <atom:link href="https://bt-trx.com/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://bt-trx.com/</link>
         <description>Connect your HAM radio or CB radio wirelessly to your car using Bluetooth! Verbinde dein Amateurfunk oder CB Funkgerät über Bluetooth mit dem Auto!</description>
-        <pubDate>Tue, 13 Aug 2019 21:51:39 +0200</pubDate>
+        <pubDate>Mon, 28 Oct 2019 21:12:45 +0100</pubDate>
         <webfeeds:icon>https://bt-trx.com/assets/img/bt-trx_quadrat.svg</webfeeds:icon>
+        
+        <item>
+            
+            <title>Erste Auflage der Bausätze ausverkauft</title>
+            <link>https://bt-trx.com/2019/10/28/first_batch_sold_out.html</link>
+            <guid isPermaLink="false">/2019/10/28/first_batch_sold_out.html</guid>
+            <description>&lt;h1 id=&quot;erste-auflage-der-bausätze-ausverkauft&quot;&gt;Erste Auflage der Bausätze ausverkauft&lt;/h1&gt;
+
+&lt;p&gt;Seit heute ist die erste Auflage der bt-trx v4.1 Bausätze ausverkauft. Wir hatten die Menge der Bausätze mit Absicht 
+begrenzt, um erst einmal in einem kleineren Benutzerkreis Erfahrungen und Feedback zu sammeln.
+Nachdem wir die ersten Rückmeldungen erhalten haben, werden wir die Verbesserungvorschläge einarbeiten und dann mit 
+der nächsten (größeren) Runde starten.&lt;/p&gt;
+
+&lt;p&gt;Daher der Aufruf an alle, die nun ein Exemplar bekommen haben: Bitte meldet euch mit positivem oder negativem Feedback :)&lt;/p&gt;
+
+&lt;p&gt;Sollte jemand Interesse an einer Kooperation zur Herstellung/Distribution der Bausätze (oder vielleicht irgendwann 
+eines kompletten Produkts) haben, freuen wir uns über Kontaktaufnahme.&lt;/p&gt;
+
+&lt;p&gt;Hier nochmal der Hinweis zur Telegram-Gruppe und dem Forum:&lt;/p&gt;
+
+&lt;p&gt;Zum Erfahrungsaustausch und Support haben wir die Telegram Gruppe
+&lt;a href=&quot;https://t.me/bttrxcom&quot;&gt;bt-trx&lt;/a&gt; eingerichtet.&lt;/p&gt;
+
+&lt;p&gt;Tiefergehender Austausch und Diskussion zur weiteren Entwicklung findet im &lt;a href=&quot;https://forum.bt-trx.com&quot;&gt;Forum&lt;/a&gt; statt.&lt;/p&gt;
+</description>
+            <pubDate>Mon, 28 Oct 2019 00:00:00 +0100</pubDate>
+        </item>
+        
+        <item>
+            
+            <title>bt-trx Telegram Gruppe</title>
+            <link>https://bt-trx.com/2019/10/14/telegram-group.html</link>
+            <guid isPermaLink="false">/2019/10/14/telegram-group.html</guid>
+            <description>&lt;h1 id=&quot;bt-trx-telegram-gruppe&quot;&gt;bt-trx Telegram Gruppe&lt;/h1&gt;
+
+&lt;p&gt;Zum Erfahrungsaustausch und Support haben wir die Telegram Gruppe
+&lt;a href=&quot;https://t.me/bttrxcom&quot;&gt;bt-trx&lt;/a&gt; eingerichtet.&lt;/p&gt;
+</description>
+            <pubDate>Mon, 14 Oct 2019 00:00:00 +0200</pubDate>
+        </item>
+        
+        <item>
+            
+            <title>Release von dev-board v4.1 - Bausätze bestellbar!</title>
+            <link>https://bt-trx.com/2019/10/07/release_dev-board_v4.1.html</link>
+            <guid isPermaLink="false">/2019/10/07/release_dev-board_v4.1.html</guid>
+            <description>&lt;h1 id=&quot;release-von-dev-board-v41---bausätze-bestellbar&quot;&gt;Release von dev-board v4.1 - Bausätze bestellbar&lt;/h1&gt;
+
+&lt;h2 id=&quot;dev-board-v41&quot;&gt;dev-board v4.1&lt;/h2&gt;
+
+&lt;p&gt;In den letzten Wochen haben wir uns intensiv der Fertigstellung der
+Platinenversionen v4 bzw. v4.1 gewidmet.
+Eigentlich sollte es v4 die sein, die wir auch als Bausatz anbieten,
+allerdings haben sich kurzfristig Probleme mit der Verfügbarkeit
+des dort verwendeten ESP32 Moduls ergeben. Daher mussten wir das Layout
+noch einmal anpassen, wodurch v4.1 entstand.
+Dies hat den Vorteil dass wir noch weitere Verbesserungen in diese Version
+einfließen lassen konnten.&lt;/p&gt;
+
+&lt;p&gt;Auch die Arbeiten an der Firmware für den ESP32 waren sehr erfolgreich.
+Es gibt nun die Möglichkeit, den PTT Taster zum Aufbau des Telefongesprächs
+zu verwenden und Firmwareupdates über das WLAN des ESP32 zu installieren.
+Die Version v0.1.3 wird mit den ersten Bausätzen ausgeliefert werden.&lt;/p&gt;
+
+&lt;h2 id=&quot;bausätze-bestellbar&quot;&gt;Bausätze bestellbar&lt;/h2&gt;
+
+&lt;p&gt;Nun sind wir froh, mitteilen zu können dass es eine erste, limitierte Auflage
+der bt-trx Bausätze im &lt;a href=&quot;https://shop.thinkstack.de&quot;&gt;thinkstack Shop&lt;/a&gt; zu
+bestellen gibt.
+Die Bausätze werden innerhalb der nächsten 3 Wochen ausgeliefert.
+Wir wollen damit Erfahrungen der ersten Benutzer sammeln und damit die
+Dokumentation verbessern um es damit dann möglichst einfach für einen
+größeren Benutzerkreis zu machen.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://github.com/bt-trx/dev-board/raw/master/images/3d_view.png&quot; /&gt;&lt;br /&gt;
+dev-board v4.1&lt;/p&gt;
+</description>
+            <pubDate>Mon, 07 Oct 2019 00:00:00 +0200</pubDate>
+        </item>
         
         <item>
             
