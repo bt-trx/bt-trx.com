@@ -1,6 +1,16 @@
 [
    
       {
+        "title"    : "Schablone und 3D-Druck Daten für die Frontblende",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "/2019/11/02/data_for_front_panel.html",
+        "date"     : "November 2, 2019",
+        "excerpt"  : "Fertigungsdaten für die Frontblende sind nun verfügbar\n\nUm dem Einbau von bt-trx in das Gehäuse noch einfacher zu gestalten, haben wir nun zwei Arten von Hilfestellung:\n\n&lt;...",
+        "content"  : "Fertigungsdaten für die Frontblende sind nun verfügbar\n\nUm dem Einbau von bt-trx in das Gehäuse noch einfacher zu gestalten, haben wir nun zwei Arten von Hilfestellung:\n\n\n  Schablone (DXF, PDF) der Ausschnitte der Gehäuseblende, und\n  3D-Daten (STL-Datei) um sich eine Frontblende mit den passenden Ausschnitten mit dem 3D-Drucker selbst herzustellen.\n\n\nDie Daten sind im Manual verlinkt.\n\nWer keinen Zugriff auf einen 3D-Drucker hat, kann ab Montag im Shop eine fertig gedruckte \nBlende bestellen.\n\n\n"
+      } ,
+   
+      {
         "title"    : "Erste Auflage der Bausätze ausverkauft",
         "category" : "",
         "tags"     : " ",

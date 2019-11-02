@@ -7,8 +7,31 @@
         <atom:link href="https://bt-trx.com//en/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://bt-trx.com//en/</link>
         <description>Connect your HAM radio or CB radio wirelessly to your car using Bluetooth! Verbinde dein Amateurfunk oder CB Funkgerät über Bluetooth mit dem Auto!</description>
-        <pubDate>Mon, 28 Oct 2019 21:16:13 +0100</pubDate>
+        <pubDate>Sat, 02 Nov 2019 22:49:44 +0100</pubDate>
         <webfeeds:icon>https://bt-trx.com//en/assets/img/bt-trx_quadrat.svg</webfeeds:icon>
+        
+        <item>
+            
+            <title>Template and 3D-data for the front panel available</title>
+            <link>https://bt-trx.com//en/2019/11/02/data_for_front_panel.html</link>
+            <guid isPermaLink="false">//en/2019/11/02/data_for_front_panel.html</guid>
+            <description>&lt;h1 id=&quot;manufacturing-data-for-the-front-panel-is-now-available&quot;&gt;Manufacturing data for the front panel is now available&lt;/h1&gt;
+
+&lt;p&gt;In order to make the installation of bt-trx into the housing even easier, we now have two types of assistance:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Template (PDF) of the cutouts of the front panel, and&lt;/li&gt;
+  &lt;li&gt;3D data (STL file) to create your own front panel with the appropriate cut-outs using the 3D printer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Links to the data can be found in the &lt;a href=&quot;https://manual.bt-trx.com/20_Zusammenbau/Frontblende/&quot;&gt;Manual&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you don’t have access to a 3D-printer, you can buy a printed version in the &lt;a href=&quot;https://shop.thinkstack.de&quot;&gt;shop&lt;/a&gt; starting on Monday.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/bt-trx/frontpanel/raw/v4.1/frontpanel_v4.1_built_in.png&quot; alt=&quot;Frontpanel v4.1&quot; /&gt;&lt;/p&gt;
+</description>
+            <pubDate>Sat, 02 Nov 2019 00:00:00 +0100</pubDate>
+        </item>
         
         <item>
             
