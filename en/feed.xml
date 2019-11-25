@@ -7,8 +7,44 @@
         <atom:link href="https://bt-trx.com//en/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://bt-trx.com//en/</link>
         <description>Connect your HAM radio or CB radio wirelessly to your car using Bluetooth! Verbinde dein Amateurfunk oder CB Funkgerät über Bluetooth mit dem Auto!</description>
-        <pubDate>Sat, 02 Nov 2019 22:49:44 +0100</pubDate>
+        <pubDate>Mon, 25 Nov 2019 18:24:51 +0100</pubDate>
         <webfeeds:icon>https://bt-trx.com//en/assets/img/bt-trx_quadrat.svg</webfeeds:icon>
+        
+        <item>
+            
+            <title>Firmware 0.2.1 released, DIY kits available again</title>
+            <link>https://bt-trx.com//en/2019/11/25/firmware_0.2.1_and_kits.html</link>
+            <guid isPermaLink="false">//en/2019/11/25/firmware_0.2.1_and_kits.html</guid>
+            <description>&lt;h1 id=&quot;firmware-version-021-has-been-released-diy-kits-available-again&quot;&gt;Firmware version 0.2.1 has been released, DIY kits available again&lt;/h1&gt;
+
+&lt;p&gt;The day before yesterday the &lt;a href=&quot;https://github.com/bt-trx/firmware/releases/tag/0.2.1&quot;&gt;Firmware Version 0.2.1&lt;/a&gt; was released. The most important change for users is
+the possibility to configure bt-trx via the WLAN web interface.
+In version 0.2.1, the following settings can be configured via the web interface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ADC and DAC gain (volume of the audio signals from and to the transceiver)&lt;/li&gt;
+  &lt;li&gt;4-digit PIN code for Legacy Bluetooth Pairing&lt;/li&gt;
+  &lt;li&gt;Delete all Bluetooth pairings&lt;/li&gt;
+  &lt;li&gt;PTT Hang Time (Hold the PTT signal after releasing the PTT button
+to compensate for the delay of the cars’ hands-free system)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition, the two headset models “Fontastic NAT+” and “Jabra Evolve 65” have been
+reported to be compatible to bt-trx.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/img/posts/2019-11-25_webinterface_0.2.1.png&quot; /&gt;&lt;br /&gt;Konfigurations-Webinterface der Version 0.2.1&lt;/p&gt;
+
+&lt;p&gt;The documentation for this version in the &lt;a href=&quot;https://manual.bt-trx.com&quot;&gt;bt-trx manual&lt;/a&gt;
+will be added in the coming days.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/img/posts/2019-11-25_webinterface_0.2.1.png&quot; /&gt;&lt;br /&gt;Configuration webinterface of version 0.2.1&lt;/p&gt;
+
+&lt;h1 id=&quot;diy-kits-available-again&quot;&gt;DIY kits available again&lt;/h1&gt;
+
+&lt;p&gt;Furthermore, the DIY kits for the bt-trx v4.1 are available in the &lt;a href=&quot;https://shop.thinkstack.de&quot;&gt;thinkstack Shop&lt;/a&gt; again.&lt;/p&gt;
+</description>
+            <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
+        </item>
         
         <item>
             

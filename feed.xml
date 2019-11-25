@@ -7,8 +7,44 @@
         <atom:link href="https://bt-trx.com/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://bt-trx.com/</link>
         <description>Connect your HAM radio or CB radio wirelessly to your car using Bluetooth! Verbinde dein Amateurfunk oder CB Funkgerät über Bluetooth mit dem Auto!</description>
-        <pubDate>Sat, 02 Nov 2019 22:49:43 +0100</pubDate>
+        <pubDate>Mon, 25 Nov 2019 18:24:50 +0100</pubDate>
         <webfeeds:icon>https://bt-trx.com/assets/img/bt-trx_quadrat.svg</webfeeds:icon>
+        
+        <item>
+            
+            <title>Firmware 0.2.1 released, Bausätze wieder lieferbar</title>
+            <link>https://bt-trx.com/2019/11/25/firmware_0.2.1_and_kits.html</link>
+            <guid isPermaLink="false">/2019/11/25/firmware_0.2.1_and_kits.html</guid>
+            <description>&lt;h1 id=&quot;firmware-version-021-wurde-veröffentlicht-bausätze-wieder-lieferbar&quot;&gt;Firmware Version 0.2.1 wurde veröffentlicht, Bausätze wieder lieferbar&lt;/h1&gt;
+
+&lt;p&gt;Bereits vorgestern wurde die &lt;a href=&quot;https://github.com/bt-trx/firmware/releases/tag/0.2.1&quot;&gt;Firmware Version 0.2.1&lt;/a&gt; veröffentlicht. Die wichtigste Änderung für Benutzer ist
+die Möglichkeit, bt-trx über das WLAN Webinterface zu konfigurieren.
+In der Version 0.2.1 können folgende Einstellungen über das Webinterface
+getätigt werden:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ADC und DAC Verstärkung (Lautstärke der Audiosignale vom und zum Transceiver)&lt;/li&gt;
+  &lt;li&gt;4-stelliger PIN Code für Legacy Bluetooth Pairing&lt;/li&gt;
+  &lt;li&gt;Löschen aller Bluetooth Pairings&lt;/li&gt;
+  &lt;li&gt;PTT Hang Time (Halten des PTT Signals nach Loslassen der PTT Taste um die
+Verzögerung der Freisprecheinrichtung auszugleichen)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Zudem wurden die beiden Headset-Modelle “Fontastic NAT+” und “Jabra Evolve 65” als
+kompatibel bestätigt.&lt;/p&gt;
+
+&lt;p&gt;Die Dokumentation für diese Version im &lt;a href=&quot;https://manual.bt-trx.com&quot;&gt;bt-trx Handbuch&lt;/a&gt;
+wird in den kommenden Tagen noch ergänzt.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/img/posts/2019-11-25_webinterface_0.2.1.png&quot; /&gt;&lt;br /&gt;Konfigurations-Webinterface der Version 0.2.1&lt;/p&gt;
+
+&lt;h1 id=&quot;bausätze-wieder-lieferbar&quot;&gt;Bausätze wieder lieferbar&lt;/h1&gt;
+
+&lt;p&gt;Zudem sind die Bausätze für die bt-trx v4.1 im &lt;a href=&quot;https://shop.thinkstack.de&quot;&gt;thinkstack Shop&lt;/a&gt;
+wieder lieferbar.&lt;/p&gt;
+</description>
+            <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
+        </item>
         
         <item>
             

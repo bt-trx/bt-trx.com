@@ -1,6 +1,16 @@
 [
    
       {
+        "title"    : "Firmware 0.2.1 released, DIY kits available again",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "//en/2019/11/25/firmware_0.2.1_and_kits.html",
+        "date"     : "November 25, 2019",
+        "excerpt"  : "Firmware version 0.2.1 has been released, DIY kits available again\n\nThe day before yesterday the Firmw...",
+        "content"  : "Firmware version 0.2.1 has been released, DIY kits available again\n\nThe day before yesterday the Firmware Version 0.2.1 was released. The most important change for users is\nthe possibility to configure bt-trx via the WLAN web interface.\nIn version 0.2.1, the following settings can be configured via the web interface:\n\n\n  ADC and DAC gain (volume of the audio signals from and to the transceiver)\n  4-digit PIN code for Legacy Bluetooth Pairing\n  Delete all Bluetooth pairings\n  PTT Hang Time (Hold the PTT signal after releasing the PTT button\nto compensate for the delay of the cars’ hands-free system)\n\n\nIn addition, the two headset models “Fontastic NAT+” and “Jabra Evolve 65” have been\nreported to be compatible to bt-trx.\n\nKonfigurations-Webinterface der Version 0.2.1\n\nThe documentation for this version in the bt-trx manual\nwill be added in the coming days.\n\nConfiguration webinterface of version 0.2.1\n\nDIY kits available again\n\nFurthermore, the DIY kits for the bt-trx v4.1 are available in the thinkstack Shop again.\n"
+      } ,
+   
+      {
         "title"    : "Template and 3D-data for the front panel available",
         "category" : "",
         "tags"     : " ",

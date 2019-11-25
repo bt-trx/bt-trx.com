@@ -1,6 +1,16 @@
 [
    
       {
+        "title"    : "Firmware 0.2.1 released, Bausätze wieder lieferbar",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "/2019/11/25/firmware_0.2.1_and_kits.html",
+        "date"     : "November 25, 2019",
+        "excerpt"  : "Firmware Version 0.2.1 wurde veröffentlicht, Bausätze wieder lieferbar\n\nBereits vorgestern wurde die &lt;a href=&quot;https://github.com/bt-trx/firmware/releases/tag/0.2....",
+        "content"  : "Firmware Version 0.2.1 wurde veröffentlicht, Bausätze wieder lieferbar\n\nBereits vorgestern wurde die Firmware Version 0.2.1 veröffentlicht. Die wichtigste Änderung für Benutzer ist\ndie Möglichkeit, bt-trx über das WLAN Webinterface zu konfigurieren.\nIn der Version 0.2.1 können folgende Einstellungen über das Webinterface\ngetätigt werden:\n\n\n  ADC und DAC Verstärkung (Lautstärke der Audiosignale vom und zum Transceiver)\n  4-stelliger PIN Code für Legacy Bluetooth Pairing\n  Löschen aller Bluetooth Pairings\n  PTT Hang Time (Halten des PTT Signals nach Loslassen der PTT Taste um die\nVerzögerung der Freisprecheinrichtung auszugleichen)\n\n\nZudem wurden die beiden Headset-Modelle “Fontastic NAT+” und “Jabra Evolve 65” als\nkompatibel bestätigt.\n\nDie Dokumentation für diese Version im bt-trx Handbuch\nwird in den kommenden Tagen noch ergänzt.\n\nKonfigurations-Webinterface der Version 0.2.1\n\nBausätze wieder lieferbar\n\nZudem sind die Bausätze für die bt-trx v4.1 im thinkstack Shop\nwieder lieferbar.\n"
+      } ,
+   
+      {
         "title"    : "Schablone und 3D-Druck Daten für die Frontblende",
         "category" : "",
         "tags"     : " ",
