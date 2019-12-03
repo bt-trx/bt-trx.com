@@ -14,7 +14,7 @@
     <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
 
     <!-- Canonical -->
-    <link rel="canonical" href="https://bt-trx.com//en/2019/11/25/firmware_0.2.1_and_kits.html">
+    <link rel="canonical" href="https://bt-trx.com//en/2019/12/03/firmware_0.3.0.html">
 
     <!-- RSS -->
     <link rel="alternate" type="application/atom+xml" title="bt-trx" href="https://bt-trx.com//en/feed.xml"/>
@@ -30,26 +30,26 @@
     
     <!-- seo tags -->
     <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Firmware 0.2.1 released, DIY kits available again | bt-trx</title>
+<title>Firmware 0.3.0 released | bt-trx</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Firmware 0.2.1 released, DIY kits available again" />
+<meta property="og:title" content="Firmware 0.3.0 released" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="Firmware version 0.2.1 has been released, DIY kits available again" />
-<meta property="og:description" content="Firmware version 0.2.1 has been released, DIY kits available again" />
-<link rel="canonical" href="https://bt-trx.com//en/2019/11/25/firmware_0.2.1_and_kits.html" />
-<meta property="og:url" content="https://bt-trx.com//en/2019/11/25/firmware_0.2.1_and_kits.html" />
+<meta name="description" content="Firmware version 0.3.0 has been released - support for BLE PTT Button" />
+<meta property="og:description" content="Firmware version 0.3.0 has been released - support for BLE PTT Button" />
+<link rel="canonical" href="https://bt-trx.com//en/2019/12/03/firmware_0.3.0.html" />
+<meta property="og:url" content="https://bt-trx.com//en/2019/12/03/firmware_0.3.0.html" />
 <meta property="og:site_name" content="bt-trx" />
 <meta property="og:image" content="https://bt-trx.com//en/assets/img/triangle.png" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2019-11-25T00:00:00+01:00" />
+<meta property="article:published_time" content="2019-12-03T00:00:00+01:00" />
 <script type="application/ld+json">
-{"image":"https://bt-trx.com//en/assets/img/triangle.png","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://bt-trx.com//en/2019/11/25/firmware_0.2.1_and_kits.html"},"url":"https://bt-trx.com//en/2019/11/25/firmware_0.2.1_and_kits.html","headline":"Firmware 0.2.1 released, DIY kits available again","dateModified":"2019-11-25T00:00:00+01:00","datePublished":"2019-11-25T00:00:00+01:00","description":"Firmware version 0.2.1 has been released, DIY kits available again","@context":"https://schema.org"}</script>
+{"image":"https://bt-trx.com//en/assets/img/triangle.png","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://bt-trx.com//en/2019/12/03/firmware_0.3.0.html"},"url":"https://bt-trx.com//en/2019/12/03/firmware_0.3.0.html","headline":"Firmware 0.3.0 released","dateModified":"2019-12-03T00:00:00+01:00","datePublished":"2019-12-03T00:00:00+01:00","description":"Firmware version 0.3.0 has been released - support for BLE PTT Button","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <!-- Manual seo tags -->
     <!--
-    <title>Firmware 0.2.1 released, DIY kits available again | bt-trx</title>
-    <meta name="description" content="Firmware version 0.2.1 has been released, DIY kits available again">
+    <title>Firmware 0.3.0 released | bt-trx</title>
+    <meta name="description" content="Firmware version 0.3.0 has been released - support for BLE PTT Button">
     -->
 </head>
 
@@ -155,7 +155,7 @@
         <li class="separator"> | </li>
         <li>
         
-        <a href="/2019/11/25/firmware_0.2.1_and_kits.html" >🇩🇪 Deutsch</a>
+        <a href="/2019/12/03/firmware_0.3.0.html" >🇩🇪 Deutsch</a>
         
         </li>
 
@@ -171,33 +171,18 @@
   </header>
   <section class="post-content">
   
-      <h1 id="firmware-version-021-has-been-released-diy-kits-available-again">Firmware version 0.2.1 has been released, DIY kits available again</h1>
+      <h1 id="firmware-version-030-has-been-released---support-for-ble-ptt-button">Firmware version 0.3.0 has been released - support for BLE PTT Button</h1>
 
-<p>The day before yesterday the <a href="https://github.com/bt-trx/firmware/releases/tag/0.2.1">Firmware Version 0.2.1</a> was released. The most important change for users is
-the possibility to configure bt-trx via the WLAN web interface.
-In version 0.2.1, the following settings can be configured via the web interface:</p>
+<p>Today the <a href="https://github.com/bt-trx/firmware/releases/tag/0.3.0">Firmware Version 0.3.0</a> was released.</p>
 
-<ul>
-  <li>ADC and DAC gain (volume of the audio signals from and to the transceiver)</li>
-  <li>4-digit PIN code for Legacy Bluetooth Pairing</li>
-  <li>Delete all Bluetooth pairings</li>
-  <li>PTT Hang Time (Hold the PTT signal after releasing the PTT button
-to compensate for the delay of the cars’ hands-free system)</li>
-</ul>
+<p>The most important change for users is the ability to use the Anytone PTT Button
+of the Anytone AT-D878UV (BP-01) with bt-trx, see <a href="https://manual.bt-trx.com/30_Bedienung/Inbetriebnahme/#ble-bluetooth-low-energy-ptt-button">bt-trx manual</a>.</p>
 
-<p>In addition, the two headset models “Fontastic NAT+” and “Jabra Evolve 65” have been
-reported to be compatible to bt-trx.</p>
+<p style="text-align: center"><img src="/assets/img/posts/2019-12-03_ble_button.png" /><br />Anytone PTT Button</p>
 
-<p style="text-align: center"><img src="/assets/img/posts/2019-11-25_webinterface_0.2.1.png" /><br />Konfigurations-Webinterface der Version 0.2.1</p>
-
-<p>The documentation for this version in the <a href="https://manual.bt-trx.com">bt-trx manual</a>
-will be added in the coming days.</p>
-
-<p style="text-align: center"><img src="/assets/img/posts/2019-11-25_webinterface_0.2.1.png" /><br />Configuration webinterface of version 0.2.1</p>
-
-<h1 id="diy-kits-available-again">DIY kits available again</h1>
-
-<p>Furthermore, the DIY kits for the bt-trx v4.1 are available in the <a href="https://shop.thinkstack.de">thinkstack Shop</a> again.</p>
+<p><strong>Important note:</strong> For an update from firmware version 0.2.0 or 0.2.1 to
+0.3.0, the update cannot be performed via the web interface. The update
+must be done via USB (see documentation in the <a href="https://manual.bt-trx.com/40_Entwicklung/Flashen%20der%20Firmware%20%C3%BCber%20USB/">bt-trx manual</a>).</p>
 
     
   </section>
@@ -208,7 +193,7 @@ will be added in the coming days.</p>
         <div class="meta">Share</div>
                  
         <li>
-            <a href="mailto:?subject=Firmware+0.2.1+released%2C+DIY+kits+available+again%20%7C%20bt-trx&body=:%20https://bt-trx.com//en/2019/11/25/firmware_0.2.1_and_kits.html" target="_blank" title="Email">
+            <a href="mailto:?subject=Firmware+0.3.0+released%20%7C%20bt-trx&body=:%20https://bt-trx.com//en/2019/12/03/firmware_0.3.0.html" target="_blank" title="Email">
 			<i class="fa fa-envelope-square fa-2x" aria-hidden="true"></i>
 			<span class="sr-only">Email</span>
 		</a>
@@ -236,19 +221,12 @@ will be added in the coming days.</p>
 
   <div id="post-nav">
     
-    <div id="previous-post">
-        <p>Next post</p>
-        <a alt="Firmware 0.3.0 released" href="//en/2019/12/03/firmware_0.3.0.html">
-            Firmware 0.3.0 released
-        </a>
-    </div>
-    
     
 
     <div id="next-post">
         <p>Previous post</p>
-        <a alt="Template and 3D-data for the front panel available" href="//en/2019/11/02/data_for_front_panel.html">
-            Template and 3D-data for the front panel available
+        <a alt="Firmware 0.2.1 released, DIY kits available again" href="//en/2019/11/25/firmware_0.2.1_and_kits.html">
+            Firmware 0.2.1 released, DIY kits available again
         </a>
     </div>
     

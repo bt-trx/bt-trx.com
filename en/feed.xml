@@ -7,8 +7,29 @@
         <atom:link href="https://bt-trx.com//en/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://bt-trx.com//en/</link>
         <description>Connect your HAM radio or CB radio wirelessly to your car using Bluetooth! Verbinde dein Amateurfunk oder CB Funkgerät über Bluetooth mit dem Auto!</description>
-        <pubDate>Mon, 25 Nov 2019 18:24:51 +0100</pubDate>
+        <pubDate>Tue, 03 Dec 2019 19:21:16 +0100</pubDate>
         <webfeeds:icon>https://bt-trx.com//en/assets/img/bt-trx_quadrat.svg</webfeeds:icon>
+        
+        <item>
+            
+            <title>Firmware 0.3.0 released</title>
+            <link>https://bt-trx.com//en/2019/12/03/firmware_0.3.0.html</link>
+            <guid isPermaLink="false">//en/2019/12/03/firmware_0.3.0.html</guid>
+            <description>&lt;h1 id=&quot;firmware-version-030-has-been-released---support-for-ble-ptt-button&quot;&gt;Firmware version 0.3.0 has been released - support for BLE PTT Button&lt;/h1&gt;
+
+&lt;p&gt;Today the &lt;a href=&quot;https://github.com/bt-trx/firmware/releases/tag/0.3.0&quot;&gt;Firmware Version 0.3.0&lt;/a&gt; was released.&lt;/p&gt;
+
+&lt;p&gt;The most important change for users is the ability to use the Anytone PTT Button
+of the Anytone AT-D878UV (BP-01) with bt-trx, see &lt;a href=&quot;https://manual.bt-trx.com/30_Bedienung/Inbetriebnahme/#ble-bluetooth-low-energy-ptt-button&quot;&gt;bt-trx manual&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/img/posts/2019-12-03_ble_button.png&quot; /&gt;&lt;br /&gt;Anytone PTT Button&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Important note:&lt;/strong&gt; For an update from firmware version 0.2.0 or 0.2.1 to
+0.3.0, the update cannot be performed via the web interface. The update
+must be done via USB (see documentation in the &lt;a href=&quot;https://manual.bt-trx.com/40_Entwicklung/Flashen%20der%20Firmware%20%C3%BCber%20USB/&quot;&gt;bt-trx manual&lt;/a&gt;).&lt;/p&gt;
+</description>
+            <pubDate>Tue, 03 Dec 2019 00:00:00 +0100</pubDate>
+        </item>
         
         <item>
             

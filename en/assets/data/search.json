@@ -1,6 +1,16 @@
 [
    
       {
+        "title"    : "Firmware 0.3.0 released",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "//en/2019/12/03/firmware_0.3.0.html",
+        "date"     : "December 3, 2019",
+        "excerpt"  : "Firmware version 0.3.0 has been released - support for BLE PTT Button\n\nToday the Firmware Version ...",
+        "content"  : "Firmware version 0.3.0 has been released - support for BLE PTT Button\n\nToday the Firmware Version 0.3.0 was released.\n\nThe most important change for users is the ability to use the Anytone PTT Button\nof the Anytone AT-D878UV (BP-01) with bt-trx, see bt-trx manual.\n\nAnytone PTT Button\n\nImportant note: For an update from firmware version 0.2.0 or 0.2.1 to\n0.3.0, the update cannot be performed via the web interface. The update\nmust be done via USB (see documentation in the bt-trx manual).\n"
+      } ,
+   
+      {
         "title"    : "Firmware 0.2.1 released, DIY kits available again",
         "category" : "",
         "tags"     : " ",
