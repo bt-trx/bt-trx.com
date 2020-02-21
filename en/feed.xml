@@ -7,8 +7,36 @@
         <atom:link href="https://bt-trx.com//en/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://bt-trx.com//en/</link>
         <description>Connect your HAM radio or CB radio wirelessly to your car using Bluetooth! Verbinde dein Amateurfunk oder CB Funkgerät über Bluetooth mit dem Auto!</description>
-        <pubDate>Tue, 03 Dec 2019 19:21:16 +0100</pubDate>
+        <pubDate>Fri, 21 Feb 2020 20:16:41 +0100</pubDate>
         <webfeeds:icon>https://bt-trx.com//en/assets/img/bt-trx_quadrat.svg</webfeeds:icon>
+        
+        <item>
+            
+            <title>Firmware 1.0.0 released</title>
+            <link>https://bt-trx.com//en/2020/02/21/firmware_1.0.0.html</link>
+            <guid isPermaLink="false">//en/2020/02/21/firmware_1.0.0.html</guid>
+            <description>&lt;h1 id=&quot;firmware-version-100-has-been-released&quot;&gt;Firmware version 1.0.0 has been released&lt;/h1&gt;
+
+&lt;p&gt;Today the &lt;a href=&quot;https://github.com/bt-trx/firmware/releases/tag/1.0.0&quot;&gt;Firmware Version 1.0.0&lt;/a&gt; was released.&lt;/p&gt;
+
+&lt;p&gt;We dared the jump to the “magic” version number 1.0.0, because we
+had no major problems with the software so far and currently all features
+that we wanted to implement are done.&lt;/p&gt;
+
+&lt;p&gt;As new features in version 1.0.0 we have added the possibility to activate PTT with a
+button press, and deactivate it with another button press (PTT Latch).
+In order to prevent PTT from remaining activated for a longer period of time by
+mistake, we have added a TOT (maximum Time of Transmit).
+Both can be configured in the web interface.&lt;/p&gt;
+
+&lt;p&gt;If you still have suggestions how the software can be improved, tell us!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Important note:&lt;/strong&gt; To update from firmware version 0.2.0 or 0.2.1 to
+1.0.0 the update cannot be done via the web interface. The update
+must be made via USB (see documentation in the &lt;a href=&quot;https://manual.bt-trx.com/40_Entwicklung/Flashen%20der%20Firmware%20%C3%BCber%20USB/&quot;&gt;bt-trx manual&lt;/a&gt;).&lt;/p&gt;
+</description>
+            <pubDate>Fri, 21 Feb 2020 00:00:00 +0100</pubDate>
+        </item>
         
         <item>
             

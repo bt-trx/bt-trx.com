@@ -1,6 +1,16 @@
 [
    
       {
+        "title"    : "Firmware 1.0.0 released",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "//en/2020/02/21/firmware_1.0.0.html",
+        "date"     : "February 21, 2020",
+        "excerpt"  : "Firmware version 1.0.0 has been released\n\nToday the Firmware Version 1.0.0 was released.\n\nWe dared the jump to the “...",
+        "content"  : "Firmware version 1.0.0 has been released\n\nToday the Firmware Version 1.0.0 was released.\n\nWe dared the jump to the “magic” version number 1.0.0, because we\nhad no major problems with the software so far and currently all features\nthat we wanted to implement are done.\n\nAs new features in version 1.0.0 we have added the possibility to activate PTT with a\nbutton press, and deactivate it with another button press (PTT Latch).\nIn order to prevent PTT from remaining activated for a longer period of time by\nmistake, we have added a TOT (maximum Time of Transmit).\nBoth can be configured in the web interface.\n\nIf you still have suggestions how the software can be improved, tell us!\n\nImportant note: To update from firmware version 0.2.0 or 0.2.1 to\n1.0.0 the update cannot be done via the web interface. The update\nmust be made via USB (see documentation in the bt-trx manual).\n"
+      } ,
+   
+      {
         "title"    : "Firmware 0.3.0 released",
         "category" : "",
         "tags"     : " ",
