@@ -7,8 +7,36 @@
         <atom:link href="https://bt-trx.com//en/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://bt-trx.com//en/</link>
         <description>Connect your HAM radio or CB radio wirelessly to your car using Bluetooth! Verbinde dein Amateurfunk oder CB Funkgerät über Bluetooth mit dem Auto!</description>
-        <pubDate>Fri, 21 Feb 2020 20:16:41 +0100</pubDate>
+        <pubDate>Sun, 23 Feb 2020 23:10:58 +0100</pubDate>
         <webfeeds:icon>https://bt-trx.com//en/assets/img/bt-trx_quadrat.svg</webfeeds:icon>
+        
+        <item>
+            
+            <title>dev-board v5.0 released</title>
+            <link>https://bt-trx.com//en/2020/02/23/hardware_5.0.html</link>
+            <guid isPermaLink="false">//en/2020/02/23/hardware_5.0.html</guid>
+            <description>&lt;h1 id=&quot;dev-board-hardware-version-50-was-released&quot;&gt;dev-board hardware version 5.0 was released&lt;/h1&gt;
+
+&lt;p&gt;Today the &lt;a href=&quot;https://github.com/bt-trx/dev-board/releases/tag/v5.0&quot;&gt;hardware version 5.0&lt;/a&gt; of the dev-board was released.&lt;/p&gt;
+
+&lt;p&gt;With this release we address some optimization potentials that were mentioned
+by users of the version 4.1.
+These are among others:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use of transformers for the audio signals&lt;/li&gt;
+  &lt;li&gt;Strict separation of Digital Ground and Analog Ground&lt;/li&gt;
+  &lt;li&gt;Use of an optocoupler for PTT&lt;/li&gt;
+  &lt;li&gt;Possibility of free configuration of the RJ45 socket pinout&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;An exact list of the changes can be found in the link above.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/img/posts/2020-02-23_dev-board_v5.0.png&quot; /&gt;&lt;br /&gt;
+dev-board v5.0&lt;/p&gt;
+</description>
+            <pubDate>Sun, 23 Feb 2020 00:00:00 +0100</pubDate>
+        </item>
         
         <item>
             

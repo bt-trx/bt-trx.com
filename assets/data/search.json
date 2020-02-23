@@ -1,6 +1,16 @@
 [
    
       {
+        "title"    : "dev-board v5.0 released",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "/2020/02/23/hardware_5.0.html",
+        "date"     : "February 23, 2020",
+        "excerpt"  : "dev-board Hardware Version 5.0 wurde veröffentlicht\n\nHeute wurde die Hardware Version 5.0 des dev-board veröffe...",
+        "content"  : "dev-board Hardware Version 5.0 wurde veröffentlicht\n\nHeute wurde die Hardware Version 5.0 des dev-board veröffentlicht.\n\nWir adressieren damit einige Optimierungspotentiale die uns die Nutzer der\nVersion 4.1 mitgeteilt haben.\nDies sind unter anderem:\n\n\n  Verwendung von Übertragern für die Audiosignale\n  Strikte Trennung von Digital Ground und Analog Ground\n  Verwendung eines Optokopplers für PTT\n  Möglichkeit der freien Konfiguration der Belegung der RJ45 Buchse\n\n\nEine exakte Liste der Änderungen ist im oben genannten Link zu finden.\n\n\ndev-board v5.0\n"
+      } ,
+   
+      {
         "title"    : "Firmware 1.0.0 released",
         "category" : "",
         "tags"     : " ",
