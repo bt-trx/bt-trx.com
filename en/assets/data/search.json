@@ -1,6 +1,16 @@
 [
    
       {
+        "title"    : "Firmware 1.1.0",
+        "category" : "",
+        "tags"     : " ",
+        "url"      : "//en/2020/06/30/firmware_1.1.0.html",
+        "date"     : "June 30, 2020",
+        "excerpt"  : "New Firmware Version 1.1.0\n\nToday, we released a new firmware version: 1.1.0\n\nChanges in this version can be found at https://github.c...",
+        "content"  : "New Firmware Version 1.1.0\n\nToday, we released a new firmware version: 1.1.0\n\nChanges in this version can be found at https://github.com/bt-trx/firmware/releases/tag/1.1.0\n"
+      } ,
+   
+      {
         "title"    : "dev-board v5.0 released",
         "category" : "",
         "tags"     : " ",

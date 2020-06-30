@@ -7,8 +7,23 @@
         <atom:link href="https://bt-trx.com/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://bt-trx.com/</link>
         <description>Connect your HAM radio or CB radio wirelessly to your car using Bluetooth! Verbinde dein Amateurfunk oder CB Funkgerät über Bluetooth mit dem Auto!</description>
-        <pubDate>Sun, 23 Feb 2020 23:10:57 +0100</pubDate>
+        <pubDate>Tue, 30 Jun 2020 21:22:52 +0200</pubDate>
         <webfeeds:icon>https://bt-trx.com/assets/img/bt-trx_quadrat.svg</webfeeds:icon>
+        
+        <item>
+            
+            <title>Firmware 1.1.0</title>
+            <link>https://bt-trx.com/2020/06/30/firmware_1.1.0.html</link>
+            <guid isPermaLink="false">/2020/06/30/firmware_1.1.0.html</guid>
+            <description>&lt;h1 id=&quot;neue-firmware-version-110&quot;&gt;Neue Firmware Version 1.1.0&lt;/h1&gt;
+
+&lt;p&gt;Es gibt eine neue Firmware Version für bt-trx: 1.1.0.&lt;/p&gt;
+
+&lt;p&gt;Die Änderungen in dieser Version sind unter &lt;a href=&quot;https://github.com/bt-trx/firmware/releases/tag/1.1.0&quot;&gt;https://github.com/bt-trx/firmware/releases/tag/1.1.0&lt;/a&gt; 
+zu finden.&lt;/p&gt;
+</description>
+            <pubDate>Tue, 30 Jun 2020 00:00:00 +0200</pubDate>
+        </item>
         
         <item>
             
