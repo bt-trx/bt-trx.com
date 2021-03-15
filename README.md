@@ -1,3 +1,12 @@
+# Actions after cloning
+
+- Make sure you have ruby installed. Install bundler.
+- Make sure you have installed the page dependencies (`bundle install`)
+
+# Run page locally
+
+`bundle exec jekyll serve --watch`
+
 # Publishing the website
 
 ``` bash
